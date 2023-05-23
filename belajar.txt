@@ -3,4 +3,4 @@ nama : vebi
 kelas: cs 20
 prodi ilmu komputer
 fakultas: fsik
-pertamina
+pertamina university
