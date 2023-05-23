@@ -1,4 +1,6 @@
-nama : 
-kelas"
-dckwv
-nxcgfacvbna
+data mahasiswa 1
+nama : vebi
+kelas: cs 20
+prodi ilmu komputer
+fakultas: fsik
+pertamina
